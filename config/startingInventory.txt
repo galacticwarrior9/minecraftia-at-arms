@@ -1,0 +1,10 @@
+TConstruct:dagger,1,0,{InfiTool:{Unbreaking:1,HarvestLevel:2,RenderHead:140,Modifiers:5,Handle:14,Attack:9,RenderHandle:14,ModDurability:0.0f,Broken:0b,BonusDurability:0,RenderAccessory:14,Tooltip2:"§2Auto-Repair III",Damage:0,Tooltip1:"§dBeheading",Head:140,BaseDurability:649,Beheading:1,Accessory:14,ModifierTip2:"§2Moss III",ModifierTip3:"§fQuartz (72/72)",Moss:9,ModifierTip1:"§dBeheading",Shoddy:0.0f,MiningSpeed:1000,Effect3:11,Effect2:4,Effect1:13,ModAttack:[72,72,3,],TotalDurability:649,Tooltip3:"§fSharpness"},display:{Name:"§fSurvival Knife"}}
+MekanismTools:StonePaxel,1,0
+HardcoreQuesting:quest_book,1,0
+minecraft:compass,1,0
+Natura:BerryBush,3,12
+minecraft:bed,1,0,{RepairCost:2,display:{Name:"Emergency Bed"}}
+flansmod:desertEagle,1,0,{RepairCost:2,Paint:"DesertEagle",display:{Name:"Salvaged Pistol"},attachments:{generic_0:{},stock:{},scope:{},grip:{},barrel:{}},ammo:[0:{id:5213s,Damage:0s,Count:1b}]}
+flansmod:desertEagleAmmo,2,0,{RepairCost:2,display:{Name:"Makeshift Ammo"}}
+minecraft:sand,20,0
+minecraft:cobblestone,20,0
