@@ -89,8 +89,8 @@ recipes.addShaped(laser,
 
 
 //Assembly Table
-recipes.removeShaped(<BuildCraft|Silicon:null>);
-recipes.addShaped(<BuildCraft|Silicon:null>,
+recipes.removeShaped(<BuildCraft|Silicon:laserTableBlock>);
+recipes.addShaped(<BuildCraft|Silicon:laserTableBlock>,
 
 [[null, null, null],
 [redstone, ironGear, redstone],
